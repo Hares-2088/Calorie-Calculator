@@ -1,0 +1,101 @@
+
+body {
+  min-height: 100vh;
+  background-image: linear-gradient(to bottom right, #88c5f4, #497ce0);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  flex: 1;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.input{
+  width: 100%; 
+  padding: 12px;  
+  border: 1px solid #ccc; 
+  border-radius: 4px; 
+  box-sizing: border-box; 
+  margin-top: 6px; 
+  margin-bottom: 16px; 
+  resize: vertical; 
+}
+button[type=submit] {
+  background-color: rgb(2, 4, 122);
+  color:white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+button[type=submit]:hover {
+  background-color: rgb(58, 133, 246);
+}
+.title{
+  text-align: center;
+  margin-bottom: 3rem ;
+  font-size: 5rem;
+  font-weight: 600;
+  background-image: radial-gradient(circle, rgb(10, 84, 154), rgb(62, 94, 155));
+  color: transparent;
+  background-clip: text;
+}
+
+.form-item{
+  margin-bottom: 3rem;
+}
+Table{
+  height:30rem;
+} 
+
+.unit-select{
+  max-width: 5rem;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.documentation-content {
+  line-height: 1.6;
+}
+
+.documentation-content h2 {
+  color: #333; /* Set your preferred text color */
+}
+
+.documentation-content p {
+  margin-bottom: 1.2em;
+  font-size: 24px;
+}
+.NavBar-color{
+  background-image: linear-gradient(to left, #714cbf, #7d7ff3);
+}
+li{
+  margin-bottom: 1rem;
+  font-size: 22px;
+}
+h2{
+  padding-bottom: 1rem;
+  padding-top: 2rem;
+}
+p{
+  padding-bottom: 0.25rem;
+  font-size: 24px; 
+  line-height: 4.5rem;
+}
+.classic-p{
+  padding-bottom: 0rem;
+  padding-top: 0.75rem;
+  line-height: 0rem;
+}
