@@ -1,18 +1,16 @@
 # Calorie Calculator
 
 
-This website lets you know what should be your calorie intake by day. It takes the data that you put in the form and then gets you your TDEE and your BMR.When you click on the send button it will send you an e-mail with your information so that you don't forget them. 
+This website lets you know what should be your calorie intake by day. It takes the data that you put in the form and then gets you your TDEE and your BMR. When you click on the send button it will send you an e-mail with your information so that you don't forget them. 
 
-Also, the e-mail will be containing some good and bad eating habits.
+Also, the e-mail will contain some good and bad eating habits.
 
 This website also has some documentation to show how it does the calculation and has a page that gives some good eating habits. 
 
 # Website
 ### The main page of my website has the calculator form: 
+![image](https://github.com/user-attachments/assets/f4b4ea00-22dc-4b20-8b35-c676aadd166a)
 
-### After filling in all the necessary fields, you can click on send and it will send you your information by email: 
-
-### The app will send you an e-mail looking like this: 
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
