@@ -1,7 +1,7 @@
 # Calorie Calculator
 
 
-This website lets you know what should be your your calorie intake by day. It takes the data that you put in the form and then gets you your TDEE and your BMR.When you click on the send button it will send you an e-mail with your information so that you don't forget them. 
+This website lets you know what should be your calorie intake by day. It takes the data that you put in the form and then gets you your TDEE and your BMR.When you click on the send button it will send you an e-mail with your information so that you don't forget them. 
 
 Also, the e-mail will be containing some good and bad eating habits.
 
@@ -9,13 +9,10 @@ This website also has some documentation to show how it does the calculation and
 
 # Website
 ### The main page of my website has the calculator form: 
-![Screenshot 2023-12-24 at 7 39 25 PM](https://github.com/Hares-2088/Calorie-calculator/assets/121312399/288f2451-3e7f-4c27-8459-43a0151af2d2)
 
 ### After filling in all the necessary fields, you can click on send and it will send you your information by email: 
-![Screenshot 2023-12-24 at 7 40 20 PM](https://github.com/Hares-2088/Calorie-calculator/assets/121312399/8910cdf9-f4ea-4e02-b3cc-8937f16d0baa)
 
 ### The app will send you an e-mail looking like this: 
-![Screenshot 2023-12-24 at 7 44 06 PM](https://github.com/Hares-2088/Calorie-calculator/assets/121312399/34e83f22-5e8d-45c6-b4d4-b49b00f1313a)
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
