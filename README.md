@@ -9,6 +9,7 @@ This website also has some documentation to show how it does the calculation and
 
 # Website
 ### The main page of my website has the calculator form: 
+![image](https://github.com/user-attachments/assets/f4b4ea00-22dc-4b20-8b35-c676aadd166a)
 
 ### After filling in all the necessary fields, you can click on send and it will send you your information by email: 
 
